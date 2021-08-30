@@ -1,0 +1,7 @@
+{
+  "git.ignoreLimitWarning": true,
+  "files.autoSave": "afterDelay",
+  "editor.formatOnType": true,
+  "telemetry.enableCrashReporter": false,
+  "diffEditor.codeLens": true
+}
