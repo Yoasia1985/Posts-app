@@ -1,8 +1,33 @@
 .postsContent {
   font-weight: normal;
-  font-size: 27px;
+  font-size: 30px;
   line-height: 43px;
   margin-bottom: 0.5em;
+}
+
+
+.postsMeta{
+  display: flex;
+  align-items: center;
+  list-style: none;
+  padding: 0;
+}
+
+
+.postsMetaData {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  padding: 0;
+  align-items: center;
+  font-size: 17px;
+  margin-right: 1em;
+  margin-top: 0.4em;
+
+  svg {
+    margin-right: 0.4em;
+    font-size: 18px;
+  }
 }
 
 .postsDate {
@@ -10,4 +35,5 @@
   font-size: 20px;
   line-height: 33px;
   color: #605d5d;
+  margin-right: 1em;
 }
